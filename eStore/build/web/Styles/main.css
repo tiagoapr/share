@@ -1,0 +1,39 @@
+/* 
+
+EStore - CSS File
+
+*/
+
+
+/*** FRONTPAGE SLIDESHOW ***/
+#slider_container{ width:940px;  margin:0 auto !important;}
+#slideshow{height:330px; background:none; overflow:hidden;}
+.slide_image {margin-top:0px; z-index:0 !important;} /* Editable Slider Image Position */
+
+.slide-text{ z-index:100 !important; position:absolute; width:340px; padding-left:80px; padding-top:70px; }
+.slide-text p{ margin:0px !important; padding:0px; color:#777; font-size:24px; line-height:30px;}
+.slide-text .title{padding:0px 0px 0px 0px; margin: 0px; font-size:50px; color:#282828; line-height:33px; }
+
+.cycle{padding-right:20px;}
+
+/*** END OF FRONTPAGE SLIDESHOW ***/
+
+/*** Home Bussines ***/
+.tagline{ color:#777;  width:920px; margin:0px auto;}
+.tagline h1{font-size:30px;  color:#777; line-height:33px; padding-left:10px;}
+#main-box{ width:940px; float:left; margin-top:10px;}
+.box-buss{ float:left; width:220px; padding-right:20px;}
+.nomargin{ padding:0px;}
+
+.text-buss{ width:191px; padding-left:11px; margin-top:15px; float:left;}
+.but_read{ float:left; background-image:url(../Images/imagesTemplate/but_read.png); background-repeat:no-repeat; width:96px; text-align:center; padding:6px 0px 5px 0px;}
+.but_read a{ color:#fff; display:block;   }
+.but_read a:hover{ color:#fff;}
+
+.box-buss h2{ font-size:20px;}
+
+
+.box_small_r{background-image:url(../Images/imagesTemplate/box-small-r.gif); background-repeat:repeat-y; width:220px; float:left; margin:0px 0px 0px 0px}
+.box_small_t{background-image:url(../Images/imagesTemplate/box-small-t.gif); background-repeat:no-repeat; background-position:top; float:left; width:220px;}
+.box_small_b{background-image:url(../Images/imagesTemplate/box-small-b.gif); background-repeat:no-repeat; background-position:bottom; float:left; width:220px;}
+.box_small{padding:5px; float:left;  }

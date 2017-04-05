@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/eStore/web/Admin/newsletter.jsp</file>
+        <file>file:/C:/eStore/web/Admin/newsletterActivate.jsp</file>
+        <file>file:/C:/eStore/web/Admin/newsletterDeactivate.jsp</file>
+        <file>file:/C:/eStore/web/AccountManage/memberCart.jsp</file>
+        <file>file:/C:/eStore/web/AccountManage/memberCartRefresh.jsp</file>
+        <file>file:/C:/eStore/src/java/DatabaseClasses/Newsletter.java</file>
+        <file>file:/C:/eStore/web/Admin/users.jsp</file>
+        <file>file:/C:/eStore/web/Admin/usersActivate.jsp</file>
+        <file>file:/C:/eStore/web/Admin/usersBlock.jsp</file>
+        <file>file:/C:/eStore/web/Admin/usersDeactivate.jsp</file>
+        <file>file:/C:/eStore/src/java/SupportClasses/Utils.java</file>
+        <file>file:/C:/eStore/src/java/net/codejava/email/EmailSendingServlet.java</file>
+        <file>file:/C:/eStore/web/WEB-INF/web.xml</file>
+    </open-files>
+</project-private>
